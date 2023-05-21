@@ -1,0 +1,10 @@
+COMPONENTS USED :-
+
+•	IPFS – Interplanetary File System (version 0.9.1) 
+•	SHA-256 – Cryptographic hash function (version 2.2.2).
+•	Ethereum Blockchain - Ethereum Client (version 1.12.3).
+•	Smart Contracts - Solidity programming language (version 0.8.4).
+•	Web3.js - JavaScript library for interacting with Ethereum (version 1.5.2).
+•	User Interface - React.js library (version 17.0.2).
+•	Database - MongoDB (version 5.0.5).
+•	Backend Server - Node.js (version 14.17.0).
